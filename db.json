@@ -1,0 +1,16 @@
+{
+  "items": [
+    { "id": 1, 
+      "name": "Macbook Pro 16",  
+      "price": "Rp. 15.000.000",
+      "description": "Designed for those who defy limits and change the world, the 16-inch MacBook Pro is by far the most powerful notebook we have ever made. With an immersive Retina display, superfast processors, advanced graphics, the largest battery capacity ever in a MacBook Pro, Magic Keyboard, and massive storage, it's the ultimate pro notebook for the ultimate user.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/MacBook_Pro_15_inch_%282017%29_Touch_Bar.jpg/1200px-MacBook_Pro_15_inch_%282017%29_Touch_Bar.jpg"
+    },
+    { "id": 2, 
+      "name": "Iphone 12 Pro", 
+      "price": "Rp. 10.000.000",
+      "description": "Meet the ultimate iPhone. With the fastest smartphone chip. 5G speed. A Pro camera system that’s killer in low light. A LiDAR Scanner for more realistic AR. And two great sizes to choose from — including our largest display ever. Let’s see what this thing can do.",
+      "url": "https://cdn.eraspace.com/pub/media/catalog/product/i/p/iphone_12_pro_graphite_1.jpg"
+    }
+  ] 
+}

@@ -1,3 +1,10 @@
+#Mulai belajar besama
+
+Repository ini sedang dalam perkembangan untuk mempelajarin Frontend dengan menggunakan React 
+dan JSON Placeholder sebagai server api.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

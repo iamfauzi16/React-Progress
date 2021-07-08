@@ -1,0 +1,25 @@
+
+li {
+    width: 80%;
+    list-style-type: none;
+}
+
+h3 {
+    font-weight: lighter;
+}
+
+.Products-header {
+    margin-left: 40px;
+}
+
+img {
+    width: 200px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+span{
+    font-size: 20px;
+    color: rgb(201, 201, 201);
+    font-weight: normal;
+}
